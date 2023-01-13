@@ -10,6 +10,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Jx12rM0DXMAaBqqI2VVf8sfJSZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -19,7 +45,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/tugce/OneDrive/Masaüstü/JAVA/InsiderQASeleniumTask"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -29,6 +57,80 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tugce\OneDrive\Masaüstü\JAVA\InsiderQASeleniumTask\target" />
+      <recent name="C:\Users\tugce\OneDrive\Masaüstü\JAVA\InsiderQASeleniumTask\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases">
+    <configuration name="C:/Users/tugce/OneDrive/Masaüstü/JAVA/InsiderQASeleniumTask/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderQASeleniumTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderQASeleniumTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.userIsOnCareerPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderQASeleniumTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="userIsOnCareerPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.userIsOnHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderQASeleniumTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="userIsOnHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.userIsOnQaPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderQASeleniumTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="userIsOnQaPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases" />
+        <item itemvalue="TestNG.TestCases.userIsOnHomePage" />
+        <item itemvalue="TestNG.TestCases.userIsOnQaPage" />
+        <item itemvalue="TestNG.TestCases.userIsOnCareerPage" />
+        <item itemvalue="TestNG.C:/Users/tugce/OneDrive/Masaüstü/JAVA/InsiderQASeleniumTask/src/test/resources/TestNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +140,36 @@
       <option name="presentableId" value="Default" />
       <updated>1673004717260</updated>
     </task>
+    <task id="LOCAL-00001" summary="InsiderQASeleniumTask">
+      <created>1673218159622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673218159622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="InsiderQASeleniumTask">
+      <created>1673647268497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673647268497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InsiderQASeleniumTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="InsiderQASeleniumTask" />
   </component>
 </project>

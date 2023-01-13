@@ -7,8 +7,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import java.time.Duration;
+import java.util.concurrent.TimeUnit;
 
-public class DriverFactory {
+public class DriverManager {
 
     public static WebDriver driver = null;
 
@@ -31,6 +32,7 @@ public class DriverFactory {
         }
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(ConfigReader.defaultTimeout));
+
     }
 
     public static void quitDriver(){

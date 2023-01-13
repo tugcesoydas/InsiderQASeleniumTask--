@@ -5,22 +5,24 @@ import java.io.InputStream;
 import java.util.Properties;
 
 public class ConfigReader {
-
     public static String homePageUrl;
     public static String browser;
     public static int defaultTimeout;
     public static String jobTitle;
     public static String jobLocation;
     public static String careerUrl;
-    public static String jobsLeverUrl;
+
+    public static String newTab;
+
+
 
     public static Properties getProperties(){
-        Properties properties = new Properties();
+        Properties prop = new Properties();
 
         try {
             InputStream inputStream = new FileInputStream("config.properties");
-            properties.load(inputStream);
-            return properties;
+            prop.load(inputStream);
+            return prop;
         }catch (Exception exception){
             exception.printStackTrace();
         }
@@ -28,6 +30,7 @@ public class ConfigReader {
     }
 
     public static void readProperties(){
+
         Properties properties = ConfigReader.getProperties();
         homePageUrl = properties.getProperty("homePageUrl");
         browser = properties.getProperty("browser");
@@ -35,6 +38,8 @@ public class ConfigReader {
         jobTitle = properties.getProperty("jobTitle");
         jobLocation = properties.getProperty("jobLocation");
         careerUrl = properties.getProperty("careerUrl");
-        jobsLeverUrl = properties.getProperty("jobsLeverUrl");
+        newTab = properties.getProperty("newTab");
+
+
     }
 }
